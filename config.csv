@@ -1,4 +1,4 @@
-configID,turtleID,posX,posY,length,depth
+configName,turtleID,posX,posY,length,depth
 1,1_1,ofGetWidth() / 2,ofGetHeight() / 2,500,3
 2,2_1,100,100,300,2
 2,2_2,500,500,400,4
