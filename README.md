@@ -1,2 +1,2 @@
 # Meilenstein4-Turtle
-Zum Verfügenstellen einer Config Datei für den vierten Meilenstein im Rahmen des AuD-Kurses der Uni Osnabrück.
+This Repo is for personal use in the context of a homework.
