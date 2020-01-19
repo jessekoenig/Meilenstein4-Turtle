@@ -1,7 +1,4 @@
 configName,turtleID,posX,posY,length,depth
-config1,1_1,0,0,500,3
-config2,1,100,100,300,2
-config2,2,500,500,400,4
-test,turtle_1,100,234,150,1
-test,turtle_2,400,234,150,2
-test,turtle_3,700,234,150,3
+three_stages,turtle_1,100,234,150,1
+three_stages,turtle_2,450,234,150,2
+three_stages,turtle_3,800,234,150,3
