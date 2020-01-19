@@ -1,4 +1,7 @@
 configName,turtleName,posX,posY,length,depth
-three_stages,turtle_1,100,234,150,1
-three_stages,turtle_2,450,234,150,2
-three_stages,turtle_3,800,234,150,3
+stage1,turtle1,312,184,200,1
+stage2,turtle1,312,184,200,2
+stage3,turtle1,312,184,200,3
+three_stages,turtle_1,80,234,150,1
+three_stages,turtle_2,370,234,150,2
+three_stages,turtle_3,770,234,150,3
