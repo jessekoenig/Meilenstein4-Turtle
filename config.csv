@@ -1,4 +1,4 @@
-configName,turtleID,posX,posY,length,depth
+configName,turtleName,posX,posY,length,depth
 three_stages,turtle_1,100,234,150,1
 three_stages,turtle_2,450,234,150,2
 three_stages,turtle_3,800,234,150,3
